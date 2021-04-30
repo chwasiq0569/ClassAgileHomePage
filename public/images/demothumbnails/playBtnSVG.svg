@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-3">
+    <path d="M0 40.6073C0 18.1805 18.1805 0 40.6073 0C63.0341 0 81.2146 18.1805 81.2146 40.6073C81.2146 63.0341 63.0341 81.2146 40.6073 81.2146C18.1805 81.2146 0 63.0341 0 40.6073Z" id="Ellipse-6" fill="#43B97E" fill-rule="evenodd" stroke="#FFE00C" stroke-width="0" />
+    <path d="M18.7416 0L37.4832 21.8671L0 21.8671L18.7416 0Z" transform="matrix(-4.371139E-08 1 -1 -4.371139E-08 54.492188 21.865723)" id="Triangle-6" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

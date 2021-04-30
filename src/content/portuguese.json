@@ -1,0 +1,242 @@
+{
+    "languages": [
+        { "name": "inglês", "prefix": "en"},
+        { "name": "português", "prefix": "pt"},
+        { "name": "Espanhol", "prefix": "es"}
+    ],
+    "menu": {
+        "menuItems": [
+            { "key": "scrollable", "name": "Casa", "ClassName": "headerSectionClass" },
+            { "key": "scrollable", "name": "Características", "ClassName": "featuresSecClass" },
+            { "key": "scrollable", "name": "Preços", "ClassName": "pricingSecClass" },
+            { "key": "not_scrollableDemo", "name": "Demo", "ClassName": "" },
+            { "key": "not_scrollableFaq", "name": "Faq", "ClassName": "" },
+            { "key": "not_scrollableLegal", "name": "Jurídica", "ClassName": "" },
+            { "key": "scrollable", "name": "Cerca de", "ClassName": "aboutSecClass" },
+            { "key": "scrollable", "name": "Contato", "ClassName": "contactSecClass" }
+        ]
+    },
+    "hero": {
+        "mainHead": "Aplicativo de gerenciamento de sala de aula que oferece aos educadores",
+        "details": "ClassAgile é um aplicativo de gerenciamento de sala de aula que fornece aos educadores um conjunto de ferramentas para gerenciar e interagir com os alunos. Pode ser usado para ensino remoto ou presencial. Ele tem muitos recursos que os professores sempre sonharam, como a tomada de presença com um clique.",
+        "btnTxt": "ENTRE DE GRAÇA"
+    },
+    "features": [
+        {
+            "icon": "/icons/playlist_add_check_black_24dp.svg",
+            "mainHead": "Comparecimento",
+            "details": "Registrando a frequência dos alunos com apenas um clique em tempo real."
+        },
+        {
+            "icon": "/icons/task_black_24dp.svg",
+            "mainHead": "Tarefas",
+            "details": "Crie e atribua tarefas aos alunos online, acompanhe o andamento das tarefas."
+        },
+        {
+            "icon": "/icons/download.png",
+            "mainHead": "Características",
+            "details": "",
+            "linkTitle": "Clique aqui para se inscrever",
+            "link": ""
+        },
+        {
+            "icon": "/icons/share_black_24dp.svg",
+            "mainHead": "Recompensas",
+            "details": "Conceda distintivos e pontos aos seus alunos, envolvendo-os nas atividades em sala de aula."
+        },
+        {
+            "icon": "/icons/poll_black_24dp.svg",
+            "mainHead": "Enquete",
+            "details": "Crie enquetes em sala de aula e receba respostas em tempo real."
+        },
+        {
+            "icon": "/icons/quiz_black_24dp.svg",
+            "mainHead": "Questionário",
+            "details": "Crie questionários em sala de aula e receba respostas em tempo real."
+        },
+        {
+            "icon": "/icons/pan_tool_black_24dp.svg",
+            "mainHead": "Pedido de ajuda",
+            "details": "Gere ou atribua grupos de breakout em suas aulas"
+        },
+        {
+            "icon": "/icons/group_work_black_24dp.svg",
+            "mainHead": "Breakout Groups",
+            "details": "Gere ou atribua grupos de breakout em suas aulas"
+        },
+        {
+            "icon": "/icons/share_black_24dp.svg",
+            "mainHead": "Compartilhamento de arquivos",
+            "details": "Compartilhe arquivos em tempo real com seus alunos"
+        },
+        {
+            "icon": "/icons/forum_black_24dp.svg",
+            "mainHead": "Fórum de discussão",
+            "details": "Crie tópicos e incentive os alunos a participarem de discussões gerenciadas"
+        }
+    ],
+    "pricing": {
+        "sectionHead": "Nosso plano de preços",
+        "secionDetail": "Crie rapidamente uma tabela de preços eficaz para seus clientes em potencial com este layout. Ele é construído com componentes de IU de material padrão com pouca personalização.",
+        "planMonthly": "Por mês",
+        "planYearly": "Anual",
+        "planBtnText": "Iniciar",
+        "monthly": {
+            "plan1": {
+                "name": "Básica",
+                "price": "$09",
+                "duration": "/mês",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            },
+            "plan2": {
+                "name": "Empreendimento",
+                "price": "$49",
+                "duration": "/mês",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            },
+            "plan3": {
+                "name": "Padrão",
+                "price": "$15",
+                "duration": "/mês",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            }
+        },
+        "yearly": {
+            "plan1": {
+                "name": "Básica",
+                "price": "$09",
+                "duration": "/ano",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            },
+            "plan2": {
+                "name": "Empreendimento",
+                "price": "$49",
+                "duration": "/ano",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            },
+            "plan3": {
+                "name": "Padrão",
+                "price": "$15",
+                "duration": "/ano",
+                "benefits": [
+                    "Cursos i - 4",
+                    "Curso Individual",
+                    "Avaliações de curso",
+                    "Cursos de Diploma Individuais"
+                ]
+            }
+        }
+    },
+    "about": {
+        "mainHead": "WINFOTECH INC",
+        "details": "Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções corporativas para todos os tamanhos de negócios.",
+        "btnTxt": "Saiba mais sobre TM7 SERVICES INC",
+        "image": "images/resource/aboutus.svg"
+    },
+    "carousel": {
+        "mainHead": "Contribuidoras",
+        "details": "Essas universidades líderes estão oferecendo atualmente cursos de graduação online no FutureLearn:",
+        "images": [
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg"
+        ]
+    },
+    "contact": {
+        "image": "icons/contact-us.png",
+        "mainHead": "Visite-nos para obter recursos gratuitos",
+        "details": "Essas universidades líderes estão oferecendo atualmente cursos de graduação online no FutureLearn:",
+        "contactTxt": "Contate-Nos",
+        "contactDetails": "É um fato estabelecido há muito tempo que um leitor se distrairá com o conteúdo legível de uma página",
+        "phone": "Phone",
+        "phoneNumber": "tel:+88-01682648101",
+        "email": "mailo:hello@lebari.com",
+        "firstnameLabel": "Primeiro nome",
+        "firstName_ErrorMsg": "El nombre debe contener un mínimo de 3 letras",
+        "emailLabel": "E-mail",
+        "email_ErrorMsg": "El campo de correo electrónico no es válido",
+        "textAreaLabel": "digite seu comentário aqui",
+        "textArea_ErrorMsg": "Debe contener un mínimo de 50 letras",
+        "submitBtnTxt": "Enviar"
+    },
+    "demo": {
+        "mainHead": "Demos",
+        "details": "Os professores podem importar a lista do Google Classroom para o ClassAgile, integrando facilmente os alunos ao aplicativo. Todos os usuários podem entrar no ClassAgile usando seu perfil do Google.",
+        "demoItems": [
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "RTL", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "Título": "Title", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "RTL", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "RTL", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Título", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            { "type": "RTL", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "Título": "Title", "description": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." }
+        ] 
+    },
+    "faq": {
+        "mainHead": "Obtenha respostas para suas perguntas",
+        "details": "Os professores podem importar a lista do Google Classroom para o ClassAgile, integrando facilmente os alunos ao aplicativo. Todos os usuários podem entrar no ClassAgile usando seu perfil do Google.",
+        "faqItemsLeft": [
+            {   "question": "Status de reembolso: perguntas comuns", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Como resolver problemas de pagamento", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Status de reembolso: perguntas comuns", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Como resolver problemas de pagamento", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Status de reembolso: perguntas comuns", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Como resolver problemas de pagamento", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." }  
+        ],
+        "faqItemsRight": [
+            {   "question": "E se o restaurante mudou seus preços?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Os preços são diferentes dos do restaurante?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Você tem uma taxa de entrega?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Os preços são diferentes dos do restaurante?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Você tem uma taxa de entrega?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." },
+            {   "question": "Os preços são diferentes dos do restaurante?", "answer": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Winfotech Inc é uma empresa de desenvolvimento de software, com foco no fornecimento de soluções empresariais para todos os tamanhos de negócios. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência." }
+        ]
+    },
+    "legal": {
+        "mainHeading": "Jurídica",
+        "primaryHead": "Jurídica",
+        "details": "TM7 é uma empresa boutique de tecnologia de alto desempenho com sede em Toronto, Canadá. Sua missão é inspirar as pessoas com sua paixão pela inovação e seu compromisso com a simplicidade e a excelência. Solicitamos informações pessoais apenas quando realmente precisamos delas para prestar um serviço a você. Nós os coletamos por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que as estamos coletando e como serão usadas. Retemos as informações coletadas apenas pelo tempo necessário para fornecer o serviço solicitado. Os dados que armazenamos, protegeremos dentro de meios comercialmente aceitáveis ​​para evitar perda e roubo, bem como acesso não autorizado, divulgação, cópia, uso ou modificação. Não compartilhamos nenhuma informação de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei. Você é livre para recusar nossa solicitação de suas informações pessoais, com o entendimento de que podemos não ser capazes de fornecer alguns de seus serviços desejados. Nós apenas retemos as informações coletadas pelo tempo necessário para fornecê-lo seu serviço solicitado. Os dados que armazenamos, protegeremos dentro de meios comercialmente aceitáveis ​​para evitar perda e roubo, bem como acesso não autorizado, divulgação, cópia, uso ou modificação."
+    },
+    "popup": {
+        "icon": "",
+        "heading": "Sua privacidade",
+        "details": "Ao clicar em “Aceitar todos os cookies”, você concorda que a Class Agile pode armazenar cookies em seu dispositivo e divulgar informações de acordo com nossa Política de Cookies.",
+        "acceptBtnTxt": "Aceitar todos os cookies",
+        "cancelBtnTxt": "Cancelar"
+    }
+}

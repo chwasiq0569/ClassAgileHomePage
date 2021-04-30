@@ -1,0 +1,248 @@
+{
+    "languages": [
+        { "name": "English", "prefix": "en"},
+        { "name": "Portuguese", "prefix": "pt"},
+        { "name": "Spanish", "prefix": "es"}
+    ],
+    "menu": {
+        "menuItems": [
+            { "key": "scrollable", "name": "Home", "ClassName": "headerSectionClass" },
+            { "key": "scrollable", "name": "Features", "ClassName": "featuresSecClass" },
+            { "key": "scrollable", "name": "Pricing", "ClassName": "pricingSecClass" },
+            { "key": "not_scrollableDemo", "name": "Demo", "ClassName": "" },
+            { "key": "not_scrollableFaq", "name": "Faq", "ClassName": "" },
+            { "key": "not_scrollableLegal", "name": "Legal", "ClassName": "" },
+            { "key": "scrollable", "name": "About", "ClassName": "aboutSecClass" },
+            { "key": "scrollable", "name": "Contact", "ClassName": "contactSecClass" }
+        ]
+    },
+    "hero": {
+        "mainHead": "Classroom management app that provides educators",
+        "details": "ClassAgile is a classroom management application that provides educators with a set of tools to manage and interact with students. Can be used for remote or face-to-face teaching. It has many features that teachers have always dreamed of, such as taking presence with a click.",
+        "btnTxt": "JOIN FOR FREE"
+    },
+    "features": [
+        {
+            "icon": "/icons/playlist_add_check_black_24dp.svg",
+            "mainHead": "Attendance",
+            "details": "Taking student attendance with just one click in realtime."
+        },
+        {
+            "icon": "/icons/task_black_24dp.svg",
+            "mainHead": "Tasks",
+            "details": "Create and assign tasks to students online, keep track of the progress of the tasks."
+        },
+        {
+            "icon": "/icons/download.png",
+            "mainHead": "Features",
+            "details": "",
+            "linkTitle": "Click here for apply",
+            "link": ""
+        },
+        {
+            "icon": "/icons/share_black_24dp.svg",
+            "mainHead": "Rewards",
+            "details": "Award badges and points to your students, having them engaged in classroom activities."
+        },
+        {
+            "icon": "/icons/poll_black_24dp.svg",
+            "mainHead": "Poll",
+            "details": "Create classroom poll and receiving answers in realtime."
+        },
+        {
+            "icon": "/icons/quiz_black_24dp.svg",
+            "mainHead": "Quiz",
+            "details": "Create classroom quiz and receiving answers in realtime."
+        },
+        {
+            "icon": "/icons/pan_tool_black_24dp.svg",
+            "mainHead": "Help Request",
+            "details": "Generate or assign breakout groups on the fly in your classes"
+        },
+        {
+            "icon": "/icons/group_work_black_24dp.svg",
+            "mainHead": "Breakout Groups",
+            "details": "Generate or assign breakout groups on the fly in your classes"
+        },
+        {
+            "icon": "/icons/share_black_24dp.svg",
+            "mainHead": "File Sharing",
+            "details": "Share files in realtime with your students"
+        },
+        {
+            "icon": "/icons/forum_black_24dp.svg",
+            "mainHead": "Discussion Forum",
+            "details": "Create topics and encourage students to participate in managed discussions"
+        }
+    ],
+    "pricing": {
+        "sectionHead": "Our Pricing Plan",
+        "secionDetail": "Quickly build an effective pricing table for your potential customers with this layout. It's built with default Material-UI components with little customization.",
+        "planMonthly": "Monthly",
+        "planYearly": "Yearly",
+        "planBtnText": "Get Started",
+        "monthly": {
+            "plan1": {
+                "name": "Basic",
+                "price": "$09",
+                "duration": "/month",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            },
+            "plan2": {
+                "name": "Enterprise",
+                "price": "$49",
+                "duration": "/month",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            },
+            "plan3": {
+                "name": "Standard",
+                "price": "$15",
+                "duration": "/month",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            }
+        },
+        "yearly": {
+            "plan1": {
+                "name": "Basic",
+                "price": "$09",
+                "duration": "/year",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            },
+            "plan2": {
+                "name": "Enterprise",
+                "price": "$49",
+                "duration": "/year",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            },
+            "plan3": {
+                "name": "Standard",
+                "price": "$15",
+                "duration": "/year",
+                "benefits": [
+                    "Courses i - 4",
+                    "Individual Course",
+                    "Course Assessments",
+                    "Individual Diploma Courses"
+                ]
+            }
+        }
+    },
+    "about": {
+        "mainHead": "WINFOTECH INC",
+        "details": "Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.",
+        "btnTxt": "Saiba mais sobre WINFOTECH INC",
+        "image": "images/resource/aboutus.svg"
+    },
+    "carousel": {
+        "mainHead": "Contributors",
+        "details": "These leading universities are currently offering online degree courses on FutureLearn:",
+        "images": [
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg",
+            "https://i.ibb.co/X3XwL7h/pexels-italo-melo-2379005.jpg",
+            "https://i.ibb.co/bFfc2vz/pexels-pixabay-220453.jpg"
+        ]
+    },
+    "contact": {
+        "image": "icons/contact-us.png",
+        "mainHead": "Visit us for Free Resources",
+        "details": "These leading universities are currently offering online degree courses on FutureLearn:",
+        "contactTxt": "Contact us",
+        "contactDetails": "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "phone": "Phone",
+        "phoneNumber": "tel:+88-01682648101",
+        "email": "mailo:hello@lebari.com",
+        "firstnameLabel": "First Name",
+        "firstName_ErrorMsg": "Name must contain min 3 letters",
+        "emailLabel": "Email",
+        "email_ErrorMsg": "Email Field is Invalid",
+        "textAreaLabel": "Type your comment here",
+        "textArea_ErrorMsg": "Must contain min 50 letter",
+        "submitBtnTxt": "Submit"
+    },
+    "footer": {
+        "phone": "Tel",
+        "phoneNumber": "+88-01682648101",
+        "emailLabel": "Email",
+        "email": "hello@lebari.com"
+    },
+    "demo": {
+        "mainHead": "Demos",
+        "details": "Teachers can import Google Classroom roster to ClassAgile, easily onboard students to the application. All users can sign in ClassAgile using their Google profile.",
+        "demoItems": [
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "RTL", "videoURL": "sXV_31fwetY", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "RTL", "videoURL": "sXV_31fwetY", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "RTL", "videoURL": "sXV_31fwetY", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "LTR", "videoURL": "SDyNVuTiP1s", "thumbnail": "/images/demothumbnails/page1-img4.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            { "type": "RTL", "videoURL": "sXV_31fwetY", "thumbnail": "/images/demothumbnails/pexels-max-fischer-5212655.jpg", "title": "Title", "description": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." }
+        ] 
+    },
+    "faq": {
+        "mainHead": "Get Answers to Your Questions",
+        "details": "Teachers can import Google Classroom roster to ClassAgile, easily onboard students to the application. All users can sign in ClassAgile using their Google profile.",
+        "faqItemsLeft": [
+            {   "question": "Refund Status: Common Questions", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "How to Solve Payment Issues", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Refund Status: Common Questions", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "How to Solve Payment Issues", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Refund Status: Common Questions", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "How to Solve Payment Issues", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." }  
+        ],
+        "faqItemsRight": [
+            {   "question": "What if the restaurant has changed its prices?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Are the prices different than at the restaurant?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Do you have a delivery fee?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Are the prices different than at the restaurant?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Do you have a delivery fee?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." },
+            {   "question": "Are the prices different than at the restaurant?", "answer": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence. Winfotech Inc is a software development firm, focusing on delivering enterprise solutions to all sizes of business.Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellence." }
+        ]
+    },
+    "legal": {
+        "mainHeading": "Legal",
+        "primaryHead": "Legal",
+        "details": "TM7 is a high-performance boutique technology firm based out of Toronto, Canada. Their mission is to inspire people with their passion for innovation and their commitment to simplicity and excellenceWe only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.We don’t share any personally identifying information publicly or with third-parties, except when required to by law.You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. "
+    },
+    "popup": {
+        "icon": "",
+        "heading": "Your Privacy",
+        "details": "By clicking “Accept all cookies”, you agree Class Agile can store cookies on your device and disclose information in accordance with our Cookie Policy.",
+        "acceptBtnTxt": "Accept all Cookies",
+        "cancelBtnTxt": "Cancel"
+    }
+}
